@@ -1,7 +1,7 @@
 # Azure Machine Learning - 00
 ## Criando um passo a passo do Desafio proposto nas aulas de certificação AI-900.
 
-#### O metodo e fonte de dados usados nesse passo a passo estão referenciados ao [final deste documento](#final).
+#### *O metodo e fonte de dados usados nesse passo a passo estão referenciados ao [final deste documento](#final)*.
 
 <br>
 
