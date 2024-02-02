@@ -87,6 +87,7 @@ No menu a esquerda, clique em "Pontos de extremidade" e selecione o ponto corres
 
 Para esse teste foi utilizado o json abaixo:
 
+<code>
 {
   "input_data": {
     "data": [
@@ -107,6 +108,8 @@ Para esse teste foi utilizado o json abaixo:
      ]
   }
 }
+
+</code>
 
 <br>
 
