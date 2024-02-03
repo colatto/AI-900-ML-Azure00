@@ -47,6 +47,10 @@ Na seção "Configurações Básicas", preenchi os campos "Nome do Trabalho", "N
 
 Em seguida, na opção "Tipo de Tarefa e Dados", selecionei a tarefa do tipo "Regressão". Após isso, cliquei em "Selecionar Dados", em seguida no botão "Criar". Na janela que se abriu, na seção "Tipos de Dados", preenchi os campos "Nome", "Descrição" e o "Tipo" definindo-o como Tabular. Em seguida cliquei em "Avançar".
 
+<br>
+
+### 04 - Ingestão de dados
+
 Ja na parte "Fonte de Dados", escolhi a opção "De Arquivos da Web" e novamente cliquei no botão "Avançar".
 
 No passo "URL da Web", informei a URL: https://aka.ms/bike-rentals correspondente ao conjunto de dados usado. No passo "Configurações", preenchi as configurações do conjunto e ao avançar na opção "Esquema", verifiquei os tipos de dados. Finalmente, ao clicar em "Avançar", chequei as configurações criadas para o ativo de dados e em seguida cliquei no botão "Criar".
@@ -58,6 +62,10 @@ Na seção "Configurações de Tarefas", selecionei o conjunto de dados previame
 Já na seção "Limite", foram inseridos os valores conforme indicado na imagem abaixo. Após ativei a opção "Habilitar Encerramento Antecipado".
 
 ![Img](./imgs/img06.png)
+
+<br>
+
+### 05 - Validando o modelo
 
 Já na página "Validar e testar", na opção "Tipo de validação", escolhi "Divisão de validação de treinamento".
 
@@ -73,7 +81,7 @@ Ao finalizar o trabalho de treinamento, o modelo ficou disponível na opção do
 
 <br>
 
-### 04 - Analisando as Métricas do modelo
+### 06 - Analisando as Métricas do modelo
 
 Para acessar as métricas do modelo treinado, fui até a página do modelo e acessei o link disponibilizado com o nome do trabalho criado. Como mostra o vídeo:
 
@@ -81,7 +89,7 @@ Para acessar as métricas do modelo treinado, fui até a página do modelo e ace
 
 <br>
 
-### 05 - Testando o modelo
+### 07 - Testando o modelo
 
 No menu a esquerda, cliquei em "Pontos de extremidade" e selecionei o ponto correspondente ao modelo gerado. Em seguida acessei a aba "Testar".
 
